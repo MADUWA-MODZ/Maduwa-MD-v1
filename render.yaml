@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: MADUWA-V1-MD
+    env: docker
+    region: Frankfurt
+    plan: free
